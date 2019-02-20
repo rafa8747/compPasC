@@ -1,0 +1,4 @@
+program testequatro
+num teste4;
+{while (12321+valor){};
+write "x";}

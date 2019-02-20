@@ -1,0 +1,5 @@
+program teste num teste6;
+{
+read teste1; 
+write not TESTE3 and not 22222.22 * not 2 + teste33 - not  (compilador) and  teste5 - not teste333;
+}

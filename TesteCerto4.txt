@@ -1,0 +1,8 @@
+program testecinco 
+num Compilador; 
+char teste;
+num se;
+char Compilardor1;
+char teste1;
+char teste2;
+num teste3;{}

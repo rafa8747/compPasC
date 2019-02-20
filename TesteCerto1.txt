@@ -1,0 +1,6 @@
+program teste 
+num teste6;
+{
+read teste1;
+write not TESTE2 and not 22222.22 * not 2 + teste4 - not teste5 - not bola;
+}
